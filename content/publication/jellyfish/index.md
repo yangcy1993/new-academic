@@ -1,5 +1,6 @@
 ---
 title: Bioinspired Jellyfish Microparticles from Microfluidics
+subtitle: zzzz
 abstract: Nonspherical particles have attracted increasing interest because of
   their shape anisotropy. However, the current methods to prepare anisotropic
   particles suffer from complex generation processes and limited shape
@@ -30,13 +31,7 @@ authors:
   - Yuanjin Zhao
 publication: Research
 featured: true
-tags:
-  - Source Themes
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
-  filename: featured.png
+projects: []
 summary: Inspired by jellyfish, a novel particle adsorbent is developed using
   piezoelectric microfluidics for water decontamination.
 url_dataset: ""
@@ -45,7 +40,13 @@ publication_short: Research
 url_source: ""
 url_video: ""
 doi: ""
-projects: []
+tags:
+  - Source Themes
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+  filename: featured.png
 date: 2023-02-16T00:00:00.000Z
 url_slides: ""
 publishDate: 2023-02-16T00:00:00.000Z
