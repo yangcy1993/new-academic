@@ -89,7 +89,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" resize_options="250x250">}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection
