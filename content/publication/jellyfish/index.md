@@ -15,14 +15,14 @@ author_notes: []
 publication: Research
 summary: Inspired by jellyfish, a novel particle adsorbent is developed using
   piezoelectric microfluidics for water decontamination.
-url_dataset: ""
-url_project: ""
-publication_short: Research1
-url_source: ""
-url_video: ''
+# url_dataset: ""
+# url_project: ""
+publication_short: Research
+# url_source: ""
+# url_video: ''
 title: Bio-inspired jellyfish microparticles from microfluidics
 subtitle: Bio-inspired jellyfish microparticles
-doi: doi.org/10.34133/ research.0034
+doi: doi.org/10.34133/research.0034
 featured: true
 tags: []
 projects: []
