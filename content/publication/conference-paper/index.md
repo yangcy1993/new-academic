@@ -46,7 +46,7 @@ featured: true
 
 url_pdf: 'manuscript.pdf'
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
