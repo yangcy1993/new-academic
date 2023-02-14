@@ -17,7 +17,7 @@ summary: Inspired by jellyfish, a novel particle adsorbent is developed using
   piezoelectric microfluidics for water decontamination.
 url_dataset: ""
 url_project: ""
-publication_short: Research
+publication_short: Research1
 url_source: ""
 url_video: ''
 title: Bio-inspired jellyfish microparticles from microfluidics
@@ -35,7 +35,7 @@ date: 2023-02-14T03:12:52.596Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
@@ -46,4 +46,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
