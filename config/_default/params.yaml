@@ -5,11 +5,22 @@
 
 # Appearance
 
+
+# Font setting
+
+# You can choose from one of the following built-in font sets or create your own font set with Google Fonts or your own font files:
+# Minimal (modern)
+# Classic (original Academic v1 style)
+# Rose (traditional serif)
+# Mr Robot (futuristic)
+# Cyberpunk (hacker style)
+# Native: use device fonts for maximum performance
+# Supported font sizes are xs, s, m, l, xl.
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: Classic
+  font_size: m
 
 # SEO
 
