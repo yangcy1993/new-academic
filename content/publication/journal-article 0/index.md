@@ -1,23 +1,48 @@
 ---
-abstract: "11"
+abstract: >-
+  Nonspherical particles have attracted increasing interest because of their
+  shape anisotropy. However,
+
+  the current methods to prepare anisotropic particles suffer from complex generation processes and
+
+  limited shape diversity. Here, we develop a piezoelectric microfluidic system to generate complex flow
+
+  configurations and fabricate jellyfish-like microparticles. In this delicate system, the piezoelectric vibration
+
+  could evolve a jellyfish-like flow configuration in the microchannel and the in situ photopolymerization
+
+  could instantly capture the flow architecture. The sizes and morphologies of the particles are precisely
+
+  controlled by tuning the piezoelectric and microfluidic parameters. Furthermore, multi-compartmental
+
+  microparticles with a dual-layer structure are achieved by modifying the injecting channel geometry.
+
+  Moreover, such unique a shape endows the particles with flexible motion ability especially when stimuliresponsive materials are incorporated. On the basis of that, we demonstrate the capability of the jellyfish-like
+
+  microparticles in highly efficient adsorption of organic pollutants under external control. Thus, it is believed
+
+  that such jellyfish-like microparticles are highly versatile in potential applications and the piezoelectricintegrated microfluidic strategy could open an avenue for the creation of such anisotropic particles.
 slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - "111"
+  - Chaoyu Yang
+  - Yunru Yu
+  - Luoran Shang*
+  - Yuanjin Zhao*
 author_notes: []
-publication: "11"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: Research
+summary: Inspired by jellyfish, a novel particle adsorbent is developed using
+  piezoelectric microfluidics for water decontamination.
 url_dataset: ""
 url_project: ""
-publication_short: "11"
+publication_short: Research
 url_source: ""
 url_video: ""
-title: Empoty
-doi: ""
+title: Bio-inspired jellyfish microparticles from microfluidics
+subtitle: Bio-inspired jellyfish microparticles
+doi: doi.org/10.34133/ research.0034
 featured: true
 tags:
   - Source Themes
@@ -26,7 +51,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-  filename: featured.jpg
+  filename: 1.png
 date: 2015-09-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
