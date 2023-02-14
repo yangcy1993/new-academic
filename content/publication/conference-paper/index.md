@@ -51,7 +51,7 @@ url_pdf: 'manuscript.pdf'
 # url_project: ''
 # url_slides: ''
 url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'assets\media\2.mp4'
+url_video: 'assets/media/2.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
