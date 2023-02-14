@@ -11,7 +11,7 @@ external_link: ""
 url_slides: ""
 subtitle: Tailored double emulsions
 tags:
-  - Deep Learning
+  - Double_emulsions
 links:
   - icon: twitter
     icon_pack: fab
