@@ -38,7 +38,7 @@ draft: false
 featured: true
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Left
   preview_only: false
   caption: Schematic illustration
   alt_text: ""
