@@ -45,5 +45,8 @@ image:
   preview_only: false
   caption: Schematic illustration
   alt_text: ""
+summary: "A single-step fabrication of multicompartment Janus microcapsules
+  (MJMs) in a wide range of operating parameters was proposed by a simple but
+  efficient multiplex coaxial flow focusing (MCFF) process. "
 date: 2017-08-09T02:35:19.146Z
 ---
