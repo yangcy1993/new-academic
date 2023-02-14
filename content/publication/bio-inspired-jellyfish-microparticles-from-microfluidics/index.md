@@ -1,29 +1,9 @@
 ---
 abstract: >-
   Nonspherical particles have attracted increasing interest because of their
-  shape anisotropy. However,
-
-  the current methods to prepare anisotropic particles suffer from complex generation processes and
-
-  limited shape diversity. Here, we develop a piezoelectric microfluidic system to generate complex flow
-
-  configurations and fabricate jellyfish-like microparticles. In this delicate system, the piezoelectric vibration
-
-  could evolve a jellyfish-like flow configuration in the microchannel and the in situ photopolymerization
-
-  could instantly capture the flow architecture. The sizes and morphologies of the particles are precisely
-
-  controlled by tuning the piezoelectric and microfluidic parameters. Furthermore, multi-compartmental
-
-  microparticles with a dual-layer structure are achieved by modifying the injecting channel geometry.
-
-  Moreover, such unique a shape endows the particles with flexible motion ability especially when stimuliresponsive materials are incorporated. On the basis of that, we demonstrate the capability of the jellyfish-like
-
-  microparticles in highly efficient adsorption of organic pollutants under external control. Thus, it is believed
-
-  that such jellyfish-like microparticles are highly versatile in potential applications and the piezoelectricintegrated microfluidic strategy could open an avenue for the creation of such anisotropic particles.
+  shape anisotropy. However, the current methods to prepare anisotropic particles suffer from complex generation processes and limited shape diversity. Here, we develop a piezoelectric microfluidic system to generate complex flow configurations and fabricate jellyfish-like microparticles. In this delicate system, the piezoelectric vibration could evolve a jellyfish-like flow configuration in the microchannel and the in situ photopolymerization could instantly capture the flow architecture. The sizes and morphologies of the particles are precisely controlled by tuning the piezoelectric and microfluidic parameters. Furthermore, multi-compartmental microparticles with a dual-layer structure are achieved by modifying the injecting channel geometry. Moreover, such unique a shape endows the particles with flexible motion ability especially when stimuliresponsive materials are incorporated. On the basis of that, we demonstrate the capability of the jellyfish-like microparticles in highly efficient adsorption of organic pollutants under external control. Thus, it is believed that such jellyfish-like microparticles are highly versatile in potential applications and the piezoelectricintegrated microfluidic strategy could open an avenue for the creation of such anisotropic particles.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 publication_types:
   - "2"
 authors:
