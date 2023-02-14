@@ -19,7 +19,7 @@ url_dataset: ""
 url_project: ""
 publication_short: Research
 url_source: ""
-url_video: ""
+url_video: ''
 title: Bio-inspired jellyfish microparticles from microfluidics
 subtitle: Bio-inspired jellyfish microparticles
 doi: doi.org/10.34133/ research.0034
