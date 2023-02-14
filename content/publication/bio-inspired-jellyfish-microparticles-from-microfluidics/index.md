@@ -22,7 +22,7 @@ abstract: >-
   microparticles in highly efficient adsorption of organic pollutants under external control. Thus, it is believed
 
   that such jellyfish-like microparticles are highly versatile in potential applications and the piezoelectricintegrated microfluidic strategy could open an avenue for the creation of such anisotropic particles.
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
