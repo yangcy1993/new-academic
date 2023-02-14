@@ -7,14 +7,17 @@ publication_types:
   - "0"
   - "2"
 authors:
-  - Qiang Wu‡
-  - Chaoyu Yang‡
+  - Qiang Wu
+  - Chaoyu Yang
   - Guangli Liu
   - Wanghuai Xu
   - Zhiqiang Zhu
   - Ting Si* and Ronald X. Xu*
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: 10.1039/c7lc00769h
-publication: Lab on a Chip
+publication: "*Lab on a Chip*"
 publication_short: Lab Chip
 abstract: >-
   We propose a simple but efficient multiplex coaxial flow focusing (MCFF)
