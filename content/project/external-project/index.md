@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: Programmable microfibers for droplet/liquid manipulation.
 date: 2016-04-27T00:00:00Z
 summary: This project aims to create programmable microfibers *via*
   piezoelectric microfluidics for droplet/liquid manipulation.
