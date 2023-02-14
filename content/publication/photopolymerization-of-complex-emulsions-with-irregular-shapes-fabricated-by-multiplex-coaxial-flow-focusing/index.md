@@ -18,7 +18,7 @@ author_notes:
   - Equal contribution
 doi: doi.org/10.1063/1.5018207
 publication: "*Applied Physics Letters*"
-publication_short: "*Appl. Phys. Lett. *"
+publication_short: "*Appl. Phys. Lett.*"
 abstract: >-
   We fabricate complex emulsions with irregular shapes in the microscale by a
   simple but effective
