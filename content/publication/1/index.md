@@ -1,17 +1,17 @@
 ---
-title: 'An example conference paper'
+title: '1'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yunru Yu
+  - Robert Ford
 
 # Author notes (optional)
-# author_notes:
-  # - 'Equal contribution'
-  # - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -29,10 +29,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: haha.
+abstract: 11
 
 # Summary. An optional shortened abstract.
-summary: test.
+summary: 11
 
 tags: []
 
@@ -44,14 +44,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'manuscript.pdf'
+url_pdf: ''
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://baidu.com'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,0 +1,76 @@
+---
+title: "Bioinspired Jellyfish Microparticles from Microfluidics"
+authors:
+- admin
+- Robert Ford
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2023-02-16T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*Research , 1*(1)"
+publication_short: ""
+
+abstract: Nonspherical particles have attracted increasing interest because of their shape anisotropy. However, the current methods to prepare anisotropic particles suffer from complex generation processes and limited shape diversity. Here, we develop a piezoelectric microfluidic system to generate complex flow configurations and fabricate jellyfish-like microparticles. In this delicate system, the piezoelectric vibration could evolve a jellyfish-like flow configuration in the microchannel and the in situ photopolymerization could instantly capture the flow architecture. The sizes and morphologies of the particles are precisely controlled by tuning the piezoelectric and microfluidic parameters. Furthermore, multi-compartmental microparticles with a dual-layer structure are achieved by modifying the injecting channel geometry. Moreover, such unique a shape endows the particles with flexible motion ability  especially when stimuliresponsive materials are incorporated. On the basis of that, we demonstrate the capability of the jellyfish-like microparticles in highly efficient adsorption of organic pollutants under external control. Thus, it is believed that such jellyfish-like microparticles are highly versatile in potential applications and the piezoelectricintegrated microfluidic strategy could open an avenue for the creation of such anisotropic particles.
+
+# Summary. An optional shortened abstract.
+summary: Inspired by jellyfish, a novel particle adsorbent is developed using piezoelectric microfluidics for water decontamination.
+
+tags:
+- Source Themes
+featured: true
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
