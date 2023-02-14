@@ -36,7 +36,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-  filename: 1.png
+  filename: featured.png
 summary: Inspired by jellyfish, a novel particle adsorbent is developed using
   piezoelectric microfluidics for water decontamination.
 url_dataset: ""
@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 doi: ""
 projects: []
-date: 2015-09-01T00:00:00.000Z
+date: 2023-02-16T00:00:00.000Z
 url_slides: ""
 publishDate: 2023-02-16T00:00:00.000Z
 url_poster: ""
