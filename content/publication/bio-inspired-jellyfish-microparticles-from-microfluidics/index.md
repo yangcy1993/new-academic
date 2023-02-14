@@ -44,8 +44,7 @@ title: Bio-inspired jellyfish microparticles from microfluidics
 subtitle: Bio-inspired jellyfish microparticles
 doi: doi.org/10.34133/ research.0034
 featured: true
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
