@@ -4,7 +4,6 @@ title: Multiplex coaxial flow focusing for producing multicompartment Janus
   characteristics
 subtitle: Multicompartment Janus microcapsules
 publication_types:
-  - "0"
   - "2"
 authors:
   - Qiang Wu
@@ -18,7 +17,7 @@ author_notes:
   - Equal contribution
 doi: 10.1039/c7lc00769h
 publication: "*Lab on a Chip*"
-publication_short: Lab Chip
+publication_short: "*Lab Chip*"
 abstract: >-
   We propose a simple but efficient multiplex coaxial flow focusing (MCFF)
   process for single-step fabrication
@@ -44,7 +43,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: "11"
-  alt_text: ddd
+  caption: Schematic illustration
+  alt_text: ""
 date: 2017-08-09T02:35:19.146Z
 ---
