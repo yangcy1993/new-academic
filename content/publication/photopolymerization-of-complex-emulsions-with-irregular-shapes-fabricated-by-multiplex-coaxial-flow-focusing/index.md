@@ -42,5 +42,7 @@ image:
   preview_only: false
   caption: Schematic illustration
   alt_text: ""
+summary: Complex emulsion templates with irregular shapes are prepared by a
+  simple but effective multiplex coaxial flow focusing process.
 date: 2018-02-12T02:54:13.134Z
 ---
