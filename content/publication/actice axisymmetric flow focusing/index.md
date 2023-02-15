@@ -28,6 +28,6 @@ image:
   # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   caption: Schematic illustration
   alt_text: ""
-summary: "we report the first experiment of the jetting regime upon actuation in axisymmetric flow focusing (AFF) and study the effects of process parameters on the breakup length of the liquid jet and the size of resultant droplets quantitatively. "
+summary: "We report the first experiment of the jetting regime upon actuation in axisymmetric flow focusing (AFF) and study the effects of process parameters on the breakup length of the liquid jet and the size of resultant droplets quantitatively. "
 date: 2019-09-06T02:35:19.146Z
 ---
