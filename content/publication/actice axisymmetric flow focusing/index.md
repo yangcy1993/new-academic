@@ -4,7 +4,7 @@ subtitle: Active axisymmetric flow focusing
 publication_types:
   - "2"
 authors:
-  - Chaoyu Yang
+  - admin
   - Ran Qiao
   - Kai Mu
   - Zhiqiang Zhu

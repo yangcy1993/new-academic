@@ -4,7 +4,7 @@ subtitle: Highlight on celluar fluidics
 publication_types:
   - "2"
 authors:
-  - Chaoyu Yang
+  - admin
   - Yunru Yu
   - Xiaocheng Wang
   - Qiao Wang 

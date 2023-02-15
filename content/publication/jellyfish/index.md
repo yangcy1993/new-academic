@@ -7,7 +7,7 @@ url_pdf: ''
 publication_types:
   - "2"
 authors:
-  - Chaoyu Yang
+  - admin
   - Yunru Yu
   - Luoran Shang*
   - Yuanjin Zhao*

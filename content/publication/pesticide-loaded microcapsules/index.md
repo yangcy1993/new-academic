@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Fengjing Zhong
-  - Chaoyu Yang
+  - admin
   - Qiang Wu
   - Shiyu Wang
   - Lei Cheng

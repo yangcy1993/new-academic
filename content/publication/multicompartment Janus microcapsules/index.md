@@ -7,7 +7,7 @@ publication_types:
   - "2"
 authors:
   - Qiang Wu
-  - Chaoyu Yang
+  - admin
   - Guangli Liu
   - Wanghuai Xu
   - Zhiqiang Zhu

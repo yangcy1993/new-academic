@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Qiang Wu
-  - Chaoyu Yang
+  - admin
   - Jianxin Yang
   - Fangsheng Huang
   - Guangli Liu
