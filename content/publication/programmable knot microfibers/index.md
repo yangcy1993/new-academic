@@ -1,8 +1,7 @@
 ---
-title: Multiplex coaxial flow focusing for producing multicompartment Janus
-  microcapsules with tunable material compositions and structural
-  characteristics
-subtitle: Multicompartment Janus microcapsules
+title: Programmable knot microfibers from piezoelectric microfluidics
+
+subtitle: Programmable knot microfibers
 publication_types:
   - "2"
 authors:
