@@ -1,7 +1,7 @@
 ---
 title: Multiplex coaxial flow focusing for producing multicompartment Janus
   microcapsules with tunable material compositions and structural
-  characteristics1
+  characteristics
 subtitle: Multicompartment Janus microcapsules
 publication_types:
   - "2"
