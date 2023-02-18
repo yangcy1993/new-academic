@@ -138,10 +138,10 @@ sections:
           # organization_url: https://www.coursera.org
           title: Bio-inspired jellyfish from microdluidics for bilirubin adsorption
           # url: ''
-        - certificate_url: http://www.wiucas.ac.cn/news/2022/1424.html
+        # - certificate_url: http://www.wiucas.ac.cn/news/2022/1424.html
           date_end: '2025-12-31'
           date_start: '2023-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          #description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: National Natural Science Foundation of China
           # organization_url: https://www.edx.org
           title: Bio-inspired jellyfish from microdluidics for bilirubin adsorption water decontanination
@@ -161,7 +161,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
+      #text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yu0326@mail.ustc.edu.cn
