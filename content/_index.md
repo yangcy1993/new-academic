@@ -120,7 +120,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Fundings'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -131,12 +131,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+          date_end: '2023-06-30'
+          date_start: '2022-06-30'
           description: ''
-          organization: Coursera
+          organization: Chinese PostdoctoralScience Foundation
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Bio-inspired jellyfish from microdluidics for bilirubin adsorption
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
