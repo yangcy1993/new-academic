@@ -106,13 +106,14 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      buttons:
+      default_button_index: 0
+	  buttons:
         - name: All
           tag: '*'
-        - name: Droplets/particles
-          tag: droplet
-        - name: Mircofibers
-          tag: f
+        - name: First author
+          tag: first
+        - name: Co-author
+          tag: other
 	  text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
