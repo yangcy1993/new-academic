@@ -106,14 +106,14 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      default_button_index: 0
-	  buttons:
-        - name: All
-          tag: '*'
-        - name: First author
-          tag: first
-        - name: Co-author
-          tag: other
+      # default_button_index: 0
+	  # buttons:
+        # - name: All
+          # tag: '*'
+        # - name: First author
+          # tag: first
+        # - name: Co-author
+          # tag: other
 	  text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
