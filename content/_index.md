@@ -106,15 +106,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      # default_button_index: 0
-	  # buttons:
-        # - name: All
-          # tag: '*'
-        # - name: First author
-          # tag: first
-        # - name: Co-author
-          # tag: other
-	  text: |-
+      text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
@@ -146,7 +138,7 @@ sections:
           # organization_url: https://www.coursera.org
           title: Bio-inspired jellyfish from microdluidics for bilirubin adsorption
           # url: ''
-        - certificate_url: http://www.wiucas.ac.cn/news/2022/1424.html
+        # - certificate_url: http://www.wiucas.ac.cn/news/2022/1424.html
           date_end: '2025-12-31'
           date_start: '2023-01-01'
           #description: Formulated informed blockchain models, hypotheses, and use cases.
