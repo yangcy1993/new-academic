@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Co_author Publications
 cms_exclude: true
 
 # View.
