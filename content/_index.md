@@ -105,10 +105,10 @@ sections:
       view: card
   - block: collection
     content:
-      title: First Author's Publications
+      title: Publications
       text: |-
         {{% callout note %}}
-        See [all publications](./publication/).
+        See [all publications as the first author](./publication/).
         {{% /callout %}}
       filters:
         folders:
@@ -118,35 +118,20 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: copublications
     content:
-      title: Co_author's Publications
+      title: Other Publications
       text: |-
         {{% callout note %}}
-        See [all publications](./copublication/).
+        See [all other publications](./copublication/).
         {{% /callout %}}
       filters:
         folders:
           - copublication
         # exclude_featured: flase
-    design:
-      columns: '2'
-      view: citation
-  # - block: collection
-    # id: co_publications
-    # content:
-      # title: Co_author's Publications
-      # text: |-
-        # {{% callout note %}}
-        # See [all co_author's publications](./co_publication/).
-        # {{% /callout %}}
-      # filters:
-        # folders:
-          # - co_publication
-        # exclude_featured: true
     # design:
       # columns: '2'
       # view: citation
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
