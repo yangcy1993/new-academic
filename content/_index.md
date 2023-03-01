@@ -128,7 +128,7 @@ sections:
       filters:
         folders:
           - copublication
-        exclude_featured: true
+        # exclude_featured: flase
     design:
       columns: '2'
       view: citation
