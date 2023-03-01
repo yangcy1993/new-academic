@@ -4,21 +4,21 @@ subtitle: Multifunctional GO hybrid hydrogel scaffolds
 publication_types:
   - "2"
 authors:
-  - Xiaoya Ding
+  - Xiaocheng Wang
   - Yunru Yu
   - admin
-  - Dan Wu
+  - Luoran Shang*
   - Yuanjin Zhao*
- 
+  - Xian Shen* 
 author_notes:
   # - Equal contribution
   # - Equal contribution
 doi: 10.34133/2022/9850743
 url_pdf: ''
-publication: "*Research*"
-publication_short: "*Research*"
+publication: "*Advanced Functional Materials*"
+publication_short: "*Adv. Funct. Mater.*"
 abstract: >-
-  Hydrogel dressings have received extensive attention for the skin wound repair, while it is still a challenge to develop a smart hydrogel for adapting the dynamic wound healing process. Herein, we develop a novel graphene oxide (GO) hybrid hydrogel scaffold with adjustable mechanical properties, controllable drug release, and antibacterial behavior for promoting wound healing. The scaffold was prepared by injecting benzaldehyde and cyanoacetate group-functionalized dextran solution containing GO into a collection pool of histidine. As the GO possesses obvious photothermal behavior, the hybrid hydrogel scaffold exhibited an obvious stiffness decrease and effectively promoted cargo release owing to the breaking of the thermosensitive C=C double bond at a high temperature under NIR light. In addition, NIR-assisted photothermal antibacterial performance of the scaffold could be also achieved with the local temperature rising after irradiation. Therefore, it is demonstrated that the GO hybrid hydrogel scaffold with vascular endothelial growth factor (VEGF) encapsulation can achieve the adjustable mechanical properties, photothermal antibacterial, and angiogenesis during the wound healing process. These features indicated that the proposed GO hybrid hydrogel scaffold is potentially valuable for promoting wound healing and other biomedical application.
+  Biological scaffolds hold promising perspectives for random skin flap regeneration, while the practical application is greatly limited by their insufficient vascularization ability and the lack of responsiveness during the dynamical healing process. Herein, a novel MXene-incorporated hollow fibrous (MX-HF) scaffold with dynamically responsive channels is presented for promoting vascularization and skin flap regeneration by using a microfluidic-assisted 3D printing strategy. Benefiting from the photothermal conversion capacity of the MXene nanosheets and temperature-responsive ability of poly(NIPAM) hydrogels in the MX-HF scaffolds, they display a near-infrared (NIR)-responsive shrinkage/swelling behavior, which facilitates the cell penetration into the scaffold channels from the surrounding environment. Moreover, by incorporating vascular endothelial growth factor (VEGF) into the hydrogel matrix for controllable delivery, the MX-HF scaffolds can achieve promoted proliferation, migration, and proangiogenic effects of endothelial cells under NIR irradiation. It is further demonstrated in vivo that the NIR-responsive VEGF@MX-HF scaffolds can effectively improve skin flap survival by promoting angiogenesis, decreasing inflammation, and attenuating apoptosis in skin flaps. Thus, it is believed that such responsive MX-HF scaffolds are promising candidates for clinical random skin flap regeneration as well as other diverse tissue engineering applications.
 draft: false
 featured: true
 image:
@@ -28,6 +28,6 @@ image:
   # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   caption: Schematic illustration
   alt_text: ""
-summary: "We present the desired GO hybrid hydrogels and investigated their values in wound healing. The hydrogels were printed into 3D scaffolds through a glass capillary microfluidic 3D printing technique by injecting GO-incorporated benzaldehyde and cyanoacetate group-functionalized dextran mixed solution into the histidine solutions. "
-date: 2022-10-26T02:35:19.146Z
+summary: "we present a capillary-assembled microfluidic printing strategy to prepare the desired MX-HF scaffolds for promoting vascularization and skin flap regeneration. "
+date: 2022-06-02T02:35:19.146Z
 ---
