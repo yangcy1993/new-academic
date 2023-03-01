@@ -9,7 +9,7 @@ title: Programmable microfibers for droplet/liquid manipulation
 subtitle: Programmable microfibers
 featured: true
 tags:
-  - fibers
+  - Fibers
 external_link: ""
 url_slides: ""
 links:

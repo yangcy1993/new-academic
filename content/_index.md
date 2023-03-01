@@ -75,9 +75,9 @@ sections:
         - name: All
           tag: '*'
         - name: Droplets/particles
-          tag: droplet
+          tag: Droplets
         - name: Mircofibers
-          tag: f
+          tag: Fibers
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
