@@ -108,7 +108,7 @@ sections:
       title: First Author's Publications
       text: |-
         {{% callout note %}}
-        See [all first_author publications](./publication/).
+        See [all publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
