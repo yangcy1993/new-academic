@@ -122,15 +122,15 @@ sections:
       title: Other Publications
       text: |-
         {{% callout note %}}
-        See [all other publications](./copublication/).
+        See [all other publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
-          - copublication
+          - publication
         # exclude_featured: flase
-    # design:
-      # columns: '2'
-      # view: citation
+    design:
+      columns: '2'
+      view: citation
 
   - block: accomplishments
     content:
