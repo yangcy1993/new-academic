@@ -74,7 +74,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Droplets/particles
+        - name: Droplets/Particles
           tag: Droplets
         - name: Mircofibers
           tag: Fibers
