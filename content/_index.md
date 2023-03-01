@@ -118,34 +118,35 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: copublications
     content:
       title: Co_author's Publications
       text: |-
         {{% callout note %}}
-        See [all publications](./co_publication/).
+        See [all publications](./copublication/).
         {{% /callout %}}
       filters:
         folders:
-          - co_publication
+          - copublication
         exclude_featured: true
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: co_publications
-    content:
-      title: Co_author's Publications
-      text: |-
-        {{% callout note %}}
-        See [all co_author's publications](./co_publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - co_publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+    # id: co_publications
+    # content:
+      # title: Co_author's Publications
+      # text: |-
+        # {{% callout note %}}
+        # See [all co_author's publications](./co_publication/).
+        # {{% /callout %}}
+      # filters:
+        # folders:
+          # - co_publication
+        # exclude_featured: true
+    # design:
+      # columns: '2'
+      # view: citation
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
