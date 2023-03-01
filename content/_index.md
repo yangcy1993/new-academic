@@ -105,7 +105,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: First Author's Publications
       text: |-
         {{% callout note %}}
         See [all publications](./publication/).
@@ -120,7 +120,7 @@ sections:
   - block: collection
     id: co_publications
     content:
-      title: Co_publications
+      title: Co_author's Publications
       text: |-
         {{% callout note %}}
         See [all publications](./co_publication/).
@@ -129,9 +129,9 @@ sections:
         folders:
           - co_publication
         exclude_featured: true
-    # design:
-      # columns: '2'
-      # view: citation
+     design:
+       columns: '2'
+       view: citation
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
