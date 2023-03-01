@@ -10,7 +10,7 @@ title: Massive generation of tailored double emulsions
 subtitle: Tailored double emulsions
 featured: true
 tags:
-  - Double_emulsions
+  - Droplets
 external_link: ""
 url_slides: ""
 links:
