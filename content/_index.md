@@ -117,7 +117,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: co_publications
+  - block: collection
     id: co_publications
     content:
       title: Co_publications
