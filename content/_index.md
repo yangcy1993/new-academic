@@ -119,14 +119,14 @@ sections:
       view: citation
   - block: collection
     content:
-      title: First Authorsss's Publications
+      title: Co_author's Publications
       text: |-
         {{% callout note %}}
-        See [all publications](./publication/).
+        See [all publications](./co_publication/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - co_publication
         exclude_featured: true
     design:
       columns: '2'
