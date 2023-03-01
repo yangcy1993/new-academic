@@ -1,24 +1,24 @@
 ---
-title: Multifunctional GO hybrid hydrogel scaffolds for wound healing
-subtitle: Multifunctional GO hybrid hydrogel scaffolds
+title: Microfluidic electrospray generation of porous magnetic Janus reduced graphene oxide/carbon composite microspheres for versatile adsorption
 publication_types:
   - "2"
 authors:
-  - Xiaoya Ding
+  - Xiaomin Ye
   - Yunru Yu
   - admin
-  - Dan Wu
-  - Yuanjin Zhao*
+  - Qihui Fan*
+  - Luoran Shang*
+  - Fangfu Ye*
  
 author_notes:
   # - Equal contribution
   # - Equal contribution
-doi: 10.34133/2022/9850743
+doi: 10.1016/j.jcis.2022.05.156
 url_pdf: ''
-publication: "*Research*"
-publication_short: "*Research*"
+publication: "*Journal of Colloid and Interface Science*"
+publication_short: "*J. Colloid Interface Sci.*"
 abstract: >-
-  Hydrogel dressings have received extensive attention for the skin wound repair, while it is still a challenge to develop a smart hydrogel for adapting the dynamic wound healing process. Herein, we develop a novel graphene oxide (GO) hybrid hydrogel scaffold with adjustable mechanical properties, controllable drug release, and antibacterial behavior for promoting wound healing. The scaffold was prepared by injecting benzaldehyde and cyanoacetate group-functionalized dextran solution containing GO into a collection pool of histidine. As the GO possesses obvious photothermal behavior, the hybrid hydrogel scaffold exhibited an obvious stiffness decrease and effectively promoted cargo release owing to the breaking of the thermosensitive C=C double bond at a high temperature under NIR light. In addition, NIR-assisted photothermal antibacterial performance of the scaffold could be also achieved with the local temperature rising after irradiation. Therefore, it is demonstrated that the GO hybrid hydrogel scaffold with vascular endothelial growth factor (VEGF) encapsulation can achieve the adjustable mechanical properties, photothermal antibacterial, and angiogenesis during the wound healing process. These features indicated that the proposed GO hybrid hydrogel scaffold is potentially valuable for promoting wound healing and other biomedical application.
+  Graphene-based microparticles materials are broadly utilized in all sorts of fields owing to their outstanding properties. Despite great progress, the present graphene microparticles still face challenges in the aspects of size uniformity, motion flexibility, and tailorable surface chemistry, which limit their application in some specific fields, such as versatile adsorption. Hence, the development of novel graphene microparticles with the aforementioned characteristics is urgently required. We presented a simple microfluidic electrospray strategy to generate magnetic Janus reduced graphene oxide/carbon (rGO/C) composite microspheres with a variety of unique features. Specifically, the microfluidic electrospray method endowed the obtaiend microspheres with sufficient size uniformity as well as magnetic responsive motion ability. Additionally, magnetic-mediated surface assembly of phase transition lysozyme (PTL) nanofilm on the microspheres rendered the deposited area hydrophilic while non-deposited area hydrophobic. Such magnetic Janus rGO/C composite microspheres with regionalized wettability characteristics not only showed prominent performance in adsorbing organic liquids with high adsorption capacity and remarkable reusability but also displayed satisfying biocompatibility for the efficient uptake of bilirubin. More encouragingly, the microspheres could serve as adsorbents in a simulative hemoperfusion setup, which further demonstrated the clinical application potential of the magnetic Janus rGO/C microspheres. Thus, we anticipate that the obtained magnetic Janus rGO/C composite microspheres could show multifunctional properties toward water treatment and blood molecule cleaning.
 draft: false
 featured: true
 image:
@@ -28,6 +28,6 @@ image:
   # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   caption: Schematic illustration
   alt_text: ""
-summary: "we present the desired GO hybrid hydrogels and investigated their values in wound healing. The hydrogels were printed into 3D scaffolds through a glass capillary microfluidic 3D printing technique by injecting GO-incorporated benzaldehyde and cyanoacetate group-functionalized dextran mixed solution into the histidine solutions. "
-date: 2022-10-26T02:35:19.146Z
+summary: "We utilized a double-channel microfluidic setup to prepare magnetic Janus reduced graphene oxide/carbon (rGO/C) composite microspheres."
+date: 2022-06-01T02:35:19.146Z
 ---

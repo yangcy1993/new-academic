@@ -28,6 +28,6 @@ image:
   # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   caption: Schematic illustration
   alt_text: ""
-summary: "we present the desired GO hybrid hydrogels and investigated their values in wound healing. The hydrogels were printed into 3D scaffolds through a glass capillary microfluidic 3D printing technique by injecting GO-incorporated benzaldehyde and cyanoacetate group-functionalized dextran mixed solution into the histidine solutions. "
+summary: "We present the desired GO hybrid hydrogels and investigated their values in wound healing. The hydrogels were printed into 3D scaffolds through a glass capillary microfluidic 3D printing technique by injecting GO-incorporated benzaldehyde and cyanoacetate group-functionalized dextran mixed solution into the histidine solutions. "
 date: 2022-10-26T02:35:19.146Z
 ---
