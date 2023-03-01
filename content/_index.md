@@ -118,6 +118,20 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    content:
+      title: First Authorsss's Publications
+      text: |-
+        {{% callout note %}}
+        See [all publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: co_publications
     content:
       title: Co_author's Publications
