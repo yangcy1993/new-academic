@@ -22,6 +22,8 @@ appearance:
   font: Classic
   font_size: m
 
+day_night = true
+
 # SEO
 
 marketing:
