@@ -32,6 +32,6 @@ image:
   # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   caption: Schematic illustration
   alt_text: ""
-summary: "We employed a pulse-generating microfluidic system to generate complex flow configurations and fabricate jellyfish-like microparticles. "
+summary: "We have employed a pulse-generating microfluidic system to generate complex flow configurations and fabricate jellyfish-like microparticles. "
 date: 2023-01-16T02:35:19.146Z
 ---
